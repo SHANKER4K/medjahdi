@@ -25,6 +25,6 @@ int main()
             m += 1;
         }
         i += 1;
-    } while (m < n);
+    } while (m < n-1);
     return 0;
 }
